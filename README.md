@@ -29,4 +29,12 @@ Sim! Utilizamos **SWI-Prolog**, uma linguagem declarativa geralmente associada a
 ---
 
 ## 📁 Estrutura do projeto
+📦 pizzaria-prolog   
+├── formulario.html # Interface do cliente para pedidos   
+├── servidor.pl # Backend em Prolog que trata os pedidos  
+├── pedidos.pl # (Opcional) Base de dados dos pedidos recebidos  
+└── README.md # Documentação do projeto
+
+
+
 
